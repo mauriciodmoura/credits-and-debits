@@ -30,7 +30,7 @@ O credits and debits simples e eficaz, um gerenciador de finanças, permitindo o
 <br>
 
 <p align="center">
-  <img src=".github/cover.png" alt="Página inicial">
+  <img src="./src/assets/cover.png" alt="Página inicial">
 </p>
 
 ## Tecnologias
